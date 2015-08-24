@@ -1,11 +1,12 @@
 ========================================================================
-    CONSOLE APPLICATION : Lab4 Project Overview
+    CONSOLE APPLICATION : OpenGL render
 ========================================================================
 
-AppWizard has created this Lab4 application for you.
+OpenGL based renderer using Glut
 
-This file contains a summary of what you will find in each of the files that
-make up your Lab4 application.
+Including basic reusable classes not relate to rendering engines
+
+require FBX SDK to import model and glew for shader (not included in this repository)
 
 
 Lab4.vcxproj
