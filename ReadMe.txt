@@ -1,8 +1,8 @@
 ========================================================================
-    CONSOLE APPLICATION : OpenGL render
+    CONSOLE APPLICATION : CPU-based render
 ========================================================================
 
-OpenGL based renderer using Glut
+OpenGL based renderer using C++ stl using OpenGL to draw pixels
 
 Including basic reusable classes not relate to rendering engines
 
